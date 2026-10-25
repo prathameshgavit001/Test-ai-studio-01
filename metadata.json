@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Studio - Portfolio & Preview",
+  "description": "A multi-page portfolio and studio preview web app featuring profile, gallery, pricing tiers, and contact channels with responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
